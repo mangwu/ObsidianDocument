@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "0b76bf1ed846baaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaa254b80c089a9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2baae96acc06fa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/JavaScript高级程序设计第四版/14 DOM/3 MutationObserver接口.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12155d6a251cc5f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4ef9e7bd3204f15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "042b7d83b0643d0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af1fdfdbdac4e976",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd55d5a14bc321c4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1ccb2443d857f56",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f702d003115a1c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a09de7af7af489e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaScript/JavaScript高级程序设计第四版/14 DOM/3 MutationObserver接口.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa65cd57926970a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaScript/JavaScript高级程序设计第四版/14 DOM/3 MutationObserver接口.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3028a24cf505887",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9fc700054f240840",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaScript/JavaScript高级程序设计第四版/14 DOM/3 MutationObserver接口.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b2baae96acc06fa9",
+  "lastOpenFiles": [
+    "JavaScript/JavaScript高级程序设计第四版/14 DOM.md",
+    "JavaScript/JavaScript高级程序设计第四版/10 函数（Functions）/4 没有重载( No Overloading).md",
+    "JavaScript/JavaScript高级程序设计第四版/10 函数（Functions）.md",
+    "JavaScript/JavaScript高级程序设计第四版/17 事件（Events）.md",
+    "JavaScript/JavaScript数据结构与算法（第3版）/1 JavaScript简介/Untitled.png",
+    "JavaScript/JavaScript数据结构与算法（第3版）/2 ECMAScript和TypeScript概述/Untitled.png",
+    "JavaScript/JavaScript数据结构与算法（第3版）/2 ECMAScript和TypeScript概述/Untitled 1.png",
+    "1 事件流（Event Flow）/DOM_Event_Flow.gif.md",
+    "JavaScript/JavaScript高级程序设计第四版/17 事件（Events）/1 事件流（Event Flow）.md",
+    "1 事件流（Event Flow）",
+    "JavaScript/JavaScript高级程序设计第四版/11 期约与异步函数（Promises and Async Functions）/1 异步编程（Asynchronous Programming）.md",
+    "JavaScript/JavaScript高级程序设计第四版/2 HTML中的JavaScript/script 元素.md",
+    "JavaScript/JavaScript高级程序设计第四版/2 HTML中的JavaScript/Untitled.png",
+    "JavaScript/JavaScript高级程序设计第四版/1 什么是JavaScript.md",
+    "JavaScript/JavaScript高级程序设计第四版.md",
+    "JavaScript/JavaScript数据结构与算法（第3版）.md",
+    "JavaScript/JavaScript小计.md",
+    "JavaScript/JavaScript正则表达式（RegExp）.md",
+    "JavaScript.md"
+  ]
+}
