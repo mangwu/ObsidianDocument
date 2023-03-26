@@ -1,0 +1,16 @@
+.mod-root .workspace-tab-container .view-content .mod-header .inline-title {
+  font-size: 35px;
+  color: #002c8c;
+}
+
+.mod-root .workspace-tab-container .view-content h1 {
+  color: #003eb3;
+}
+
+.mod-root .workspace-tab-container .view-content h2 {
+  color: #0958d9;
+}
+
+.mod-root .workspace-tab-container .view-content h3 {
+  color: #4096ff;
+}
